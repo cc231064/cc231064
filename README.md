@@ -1,4 +1,5 @@
 ### Hi there 👋
+Have a nice day! 🌱
 
 <!--
 **cc231064/cc231064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
